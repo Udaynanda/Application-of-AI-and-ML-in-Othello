@@ -1,4 +1,4 @@
-# Application of AI and ML in Othello
+# Application of Artificial Intelligence and Machine Learning in Othello
  CS254 Course project - done under the guidance of Dr.Kapil Ahuja
  
  
